@@ -1,0 +1,2999 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CoockAppsTest
+  m_EditorClassIdentifier: 
+  m_GroupName: CoockAppsTest
+  m_Data:
+    m_SerializedData: []
+  m_GUID: af48df99ae95e5d46b140e4f80c03638
+  m_SerializeEntries:
+  - m_GUID: 02319b77c8723418ea9a129158abf2bf
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_MenuIcon_Shop.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02ab72d5275a04cbeb24a66542e31aec
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Popup/popup_title_frame_00.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02bd56f5e31e546c992b5b5f93959e3c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MailUnread.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0317d2308f34140a8bae00ae7def877f
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton_Purple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 039c994b141f9435195d03b19b637838
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ArrowPrev.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04e1d28b2d07a426d9e33d0d6ed51a02
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_HeartEmpty.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 052bff606c2c342009f69a96ce409502
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Reload.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05635dc0b2e38494a8926bc193d12085
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Popup/popup_frame.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05c580f3af06440bfb8bcf38fbc395ca
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_SkillIcon_Energe.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 066bb84c8a154764e85b59f04333504b
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@Idle1.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 066cc94d2809b5d44885f917ef2c2e5f
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/MageAnim.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 069199b7f0e1a446285ed778890fb6dd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_White1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06cea55f7f045402f8ea9eacb9924fa5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Medal_Gray.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06d641c10ebcc4fed816762853a0743f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Headset.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 085d81daa0e0743c3b660219d6d2314c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Trophy.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a2642a528e0542908b3e92449474fcb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_White4.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a5d1a442d362d349ac765910c981b92
+    m_Address: Assets/CookApps/Prefabs/popup/PopupTeamSetting/PopupTeamSetting.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b85aec16263640e89c551d91731aca8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Crop.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ba5bd42a134d45ddb4be93630852090
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Badge.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bb9dda66f02346938e16c8fe9d6b054
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Sword_A.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c036096e6c314865a988630e61ba161
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square02_f.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c8491a96ff0b4f39871e1f53784f56e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Asterisk.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0df2904df1ac54383896aa7895d0b1b1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_GenderFemale.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ee67a1a648dc4b2fbc77f39591a6307
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Medal_Gold.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f58b12e94296467a876c46051f04ce1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Export.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ff0b5f968ee848949201d9b2e5415c1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Skype.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1056bbc0834224277827a7d095c40c07
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Flag.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 105dbec4cd6b2402f9fd0e720009c7b4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Mission.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11365fadd0932400789a1dfe5d52ec23
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Alram.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 114a442687887f848b5de37eec7603b3
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Materials/Archer.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 114fa142dd0a442938513da0afcfd6cf
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType_Circle03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11b68f79340084c0e9eaa95b15e4d592
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_White5.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12225ede350bc4b8e9976eb984fd8447
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Pen.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 122780880f0f348978695cd9166a75d8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Water.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12823fdd5b5df45309f79e631a4aceda
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Gift_Blue.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12a2d3200cf364503bdbb51c7d0d133e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Crown.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 139a695ec10664d4491f97c6d8a90c68
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Materials/Knight.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13dc949631333e740af7302eca4c20b8
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@Attack1.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13f18f0389a0a404fbd6536a315909ee
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Paper.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14258bb752a91a14099e8f2dd6d8fecd
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@Idle.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1499722afa9ea47bd9fdb77cef3cf650
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ArrowNext.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14a553bd2cb4a45f8aa2d7c1cd545221
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MarkInfo1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 162f7f16c4bec41ff98f811bd90e7b6e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Fonts/Changa-Bold SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mat
+    - font
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17109f59e55f941a9ba17e827e9f208e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Medal_Silver.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 176fd55da797b44eab079a8407807352
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Gem_04.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17e7d25043db449c1827837a59637e14
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Treasure.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18951c4f6b7a349df955564ce1736bd4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe02_White2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1897ecea99cf84580bc3a541451ec66f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Key.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18ded4405392ce449a7b83f72efd9b20
+    m_Address: Assets/CookApps/Prefabs/player/unit/1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1916bc69492624fefaa05f84c975b1e3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Thumbnails.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1930fe8809ed28b4cbe2f78a1ad81610
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@WalkSlow.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a424e649760e4744bf0adab4a0e56cc
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Youtube.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a703314f390146daadf6e9820f79395
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Globe.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1adfcd53eadf2014a91b6becd394fbd3
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@Jump.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b450dc49ffc747f489653ed1e0228c6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_164_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c547b829d87049d8a279fa074b23544
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Text.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cc7b76ffc8cf49198080ed9652de02c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Restart.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d3a6f2d5f11b4eb5a16c632c2e98799
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Star02_On.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d5fd619bdbc247bc8f1b0c5d2fa895f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Continue.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da691e8b0b9640fb9da3f3323eac321
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_SkillIcon_Shield.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dbcf33f869b344c6ae3b960d8e943dc
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Refresh.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fd938a6492cd40779012ee70941d534
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Right.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 201cfb4fad2504fc3952fac130aa8718
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton_Green.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20414e9824c674f98be9932cc5a94a22
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Home.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20d583f2f9ffd460aadec3333ff52c1a
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton_BlueGreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 215958545193f44a9a619b89048d14ab
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Check.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21886b066855f42b1a81a9ba323855d6
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton_Green.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 222a34137c8a4453b90700d4d7edb298
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Compass.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 226432525e79c45f4ba479ec3ecb1863
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Quit.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24373ad1227394938a18f05b2694b706
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Next.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 248582e7af9a74a94b873333d58f79cd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Anvil.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25052304823104c6b91d2a89a291c000
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe02_Demo_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25e6c532551364d73bda1998e5c167fc
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType_Square01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2635de685afd34f4ab0ce45ba6ff8f47
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ControlNext.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 266927849a9ba4d1dabe3d09247b6709
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Ufo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 267fcfaefde444ebba76bad1ee3b0eba
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Safe.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 271ea8e9b26a94b2d8a6773b72812c27
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Bomb.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27824257696aa404f88d9556a369d21c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Volume.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27861b61159f149fb87016a23cf24fd2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Document.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 281f8729befff496bb788002ca7333af
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Circle01_Gray.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 288d5debdeea6419db2ad530763e3323
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Soulgem_03.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 294c8f8b201614a0db1f0a8b8b46b46d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_VolumeMute.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 297b9d1a0c6a5421b810627477d5dd48
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_52_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a271a925dcf34588a644cb812ec141a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe01_White2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a41e4dbe6ccb4f328a7498a60df2e8c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Down.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a71000b937d846b1a18bc85b7065895
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Minus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a992c71d9f0f4636977c9f7a496d2f3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Medal_Silver.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ab7d1bd09a0138449b0a3ee95558811
+    m_Address: Assets/CookApps/Prefabs/common/collider/box.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ae03f3ab16384724b598413d008c4d1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Key.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b80ec79e515a422198e4f8bd34cf518
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Like.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba2030642e9d4dbd85058b090c64fe4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Send1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bcab38c8f7784a58ad93177de75cdc6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_StarCircle.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c0206a9b5ff748378fe120f90064034
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton_Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c879739aa99043c8bd156c62bb0b2a1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bookmark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e87c3ed572b84ea59e50c1f8bac6380
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_SkillIcon_Potion.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ebcf0eb023ca4aa5b306f2ae151018b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Setting2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ee84863a109245b69e2fd89e8a2f3b6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Potion_Red.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f31a7ceb08bb4fa5abb262ae853bd8b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_40_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fb05d7faf380cf4d98fb5c6c050ebbc
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@Run.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fc10093bcace6d4a8817a73908d299a
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@Fall.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30519252e18e748fbb0670effaf9372f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3081f484d263145dbab925ed69a2e357
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ControlStop.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31bc74a899b654ad78e28ca41929ac8a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_White3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31e0b83521a4148ef90552e79c513299
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Setting1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32085db4ac1184e71a5ad2f2f552c286
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square02_n_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 320bae485125e67428a1aa0b885f6240
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@Walk.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 324bf24c4f1e148998c19515202858cc
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_241_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32b32b4435f8649e79edfad38185a6ae
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Quit.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32df9ac56e2ef4854847d159dc13e184
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Soulgem_04.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3378f1941c81c4e57b5a442a5c228339
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Send2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 339a6dca35d9b404ca8cc83318a922c5
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Materials/Mage.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3438147f24699473d95e8e9829a5c145
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ZoomIn.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34af3d0ef65e24fb89c8cbfcfc1370a1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_User.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e768af03d504ac081a9abdb7e4a849
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Shopping.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35d2ac685fa4d4e12aa281994193b9a3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_StatsIcon_Gold_White.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36267bcf5b2d343cdadf8a4766598974
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_MainButton_Purple.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3628323c78005444ebc13b5339e4cad0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Top.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 375a10134061547dda6cc78ea9b95a05
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Gold.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3767663cdbfbd4291934104e4106f363
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Eat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38e80862e7ac6405b9b063cc0ab1c8d3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Category.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38e80ba73ca921642a1dc82dff8ef721
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@Jump.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 393873b61b7084049b4be33aa144910e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_listframe_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a0c5b8c7800f489bb8d3dc7d5065495
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_40_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a4afa2a928da4114b01da2ce2efd524
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_SkillIcon_Arrow.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3affe2535d17145a4af76a3d8ccb7206
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Modify.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3be87f813c3544326b8bc884a6ef0e16
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_StatsIcon_Attack_White.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d578f8b07856461c9c2e277f5543e4b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Page_Next.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e1c7e0d824694a10b4d9a44e77592af
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Key.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e8514506f0a742b2a1f4503d9bbeb2e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe02_White1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3efccb7c7531e4b3ca3032b247c4d192
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Appstore.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f33b437288e9450aa6fc71ff5ecea9f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Poiton_Purple.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fa5b36866e494c23b4b60f66cb0ec8f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Money.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40bfe6d90e9ed4cf3bc9ddc5bfc66a5c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square03_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4233d70a3c682444cb4c84dbfde14975
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Exit.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4260fa9efccfe4c6b865c08a67dcbfda
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Sandglass.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42bf7858279a949fbb8072290df575da
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Graduation.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42eec34de14e04107ba2fcc48534b6e9
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Medal_Gold.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4562207ca7dbedb43a7bfce0057c1920
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@Idle.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4581b3d1bc18e4678a8a700432df8fb7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Cny.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45dff48eba91c844b8019956e31c90f1
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Characters/Archer-Arrow.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46bce8cd0ed324ea5a316f8e28a9d5eb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Add_Friend.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 480ffbe0114b842879a18bd880326689
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Gem_01.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49084f5d97e6347428504c9bbd216abf
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_square03_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49d1251fbdd16ad4bbcf7ea2c94a04d1
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@Run.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba32932c5e95473085578d10429742c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Star00.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c79e76310eb84ef4b3c68c492b4b3d5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Lock.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cfbb3b1fa3764eb1806d1670d29abf1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Gem.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d2387a1ea6004a3386dc14cdbbc870f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Delete.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d7066b4010084837b845186c6da4388
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e26bfaafe5f6434e801cdda0a3686ee
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Pencil.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e41b592b50fa4bc7bd8754fe54647a8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_GenderMale.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ee31ab7923b24464917db53b37dba83
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Folder.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f1846f5e9ef246f59a339bc877947f1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Arrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f27cdb744c7b4f4aba46139d40a63f1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_MainButton_red.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f59631a6947649d4a1afe2266237280
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Trophy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f6482a5c07e64a29b8be24b0cacafe7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Gem_03.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 503132a8a8e964a4f8619530b41b5384
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Treasure.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50fb9861b4d9b45a2a542f5dbc0a9c0d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Plus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51218c6cc95a94839884c3ce15f85ab8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_NotificationOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5140befeae1a9834598174a4c9b92f0b
+    m_Address: Assets/CookApps/Prefabs/popup/PopupUnitStatus/PopupUnitStatus.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5341ddc86f90a463589ba5118780f2ad
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Shop.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 537aeabc85441434cbaa2877216b523d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Energy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53cdd205d56744e25a9e9f850a5b339a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Hide.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5402d112e3c4d4be7a4f51826e9f9541
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType_Circle02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 541ce6540b0784faea63b196d7fa74f6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_MenuIcon_Message.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54232675556ee49db8fd98ad65926d53
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_EmojiGood.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55331f33b3632de45815b9263dedead9
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@Fall.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55a5e4fc0bb0ac3469a49e3571c673a4
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@Jump.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56ff5950f8c044352ae5d1671e559091
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Expand.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 571e655c7ab4a4d7abd6f5e57b144596
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Gem.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 582409d87bd2f4d2586971144572f43d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Hand.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59bce716a9cd24f2ca33eccf1ee174ce
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square02_f_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a76c0277ec2548ec8152f2bb46b5687
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Message.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b322d9a14f8e4873a13ef2818ff5fec
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Pause.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b4a35b8ebf4f445c9353e593112466d
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType_Square03_White.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b8e9b0d882494822955aee27709a689
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Talaria.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c9acda7eceab4971b87fb69094efa00
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_Demo_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da2c1fa0982c48439899bad157f6558
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Candle.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e522148bf0154e68b13319c67ded55b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Location.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f128904ff6254227bd44842c7c3b59e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bluetooth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f8134e73ab18428eb1ca95442d6655f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Cloud.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60312f436460c4386b7c53495bd096c8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Cancel.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60315924056b34e41a3b20ce86bdeb2b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Soulgem.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60de93d485773488faaa8da3c88d1634
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton_Purple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61ae0e14f76304324ad72d6be800a98b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square02_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6264b91be83af49b9be5a2bf4fe429db
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Newspaper.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62e7189adbfe20b448ef7d7a2431df27
+    m_Address: Assets/CookApps/Prefabs/scripts/UnitInfo.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6350455e155b4424ca1398fcccc2b751
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Helmet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63b6d5a7fd4975a448cd07cfb4328e62
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Textures/Knight.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 643ab1e74021d434ca614b50ac4ce844
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_MainButton_Blue.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6519cea7c168d44599739cf1dad494b1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_BookmarkAdd.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65b394b001e61f74a9352712407ff4c9
+    m_Address: Assets/CookApps/Prefabs/popup/PopupIngameResult/PopupInGameResult.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65bf1b1d7554d417a8a9617ae44227a4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ControlPlay.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67a8387a5cad44016803e17dd307633c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_241_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69055adf2ec564055b98c867b9629fa0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Hashtag.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 698ef43f4470f4cd3a168156f1b091ec
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MarkCaution1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a3cf2727c52b4dc4aec645acf6fdd53
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Wifi.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a5e1f13d960c4082a5b5497557bc1e0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Coin_04.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6af71e730869f4b68ad8459724e311dd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Photo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b4defef2eaaf4cab9fdae80166dd150
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_square03_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b5b7763fcdfb450f8aec1ca1e3080bb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_CallReject.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b9e3cd27562d4968a030845926b87f7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Screwdriver.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c44dc556c688416bac1bbcd403f82e7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Siren.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c573677ae6f34678865170ab30e76d7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Letter.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cd2e4f7622ab468686a5d750551e633
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Star01_On.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d3c4d32988774f9f822a335f7e3639c
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton_Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dfc483e33354476fa0d6f22551fd419
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_oval_48_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ebb36d7c522042c68c3739b3b3729c8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Medal_Bronze.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ee17b757e591432fb4658c1a553d3fd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tablaframe01_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70123f5bc262c438589838a77770225c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Book.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70a854518a76845a0a61a99a9f8d378d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Star01_Off.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70ae0af0cca034ec8920a459291978ee
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bitcoin.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7126975f39503486394d6376cf86879e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_energy.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 715d6ea1f8c8a45c487d18da0f6ec237
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Timer.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7210f98459f4644d787fff9d85844350
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType_Circle01_Gary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72e50234581bc4a629e38e0a5ae465ea
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Target.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7381cfd24763240ad8652c74fed5a9c3
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton_Brown.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 744b15ad516434cb787b54416904f230
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Filter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 745eeb4954b354315a3e8d4f2f2c9c43
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Time.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7494cf6ff5eb54031bc7147d24cb7954
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_oval_48_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74e9a2b6149a8479b8b90a08395c0a06
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Pinterest.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75f292fe2389f46d7a75908adafd2dbe
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bomb.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7642c9244a1a34e6380e07df5c53853c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Fix.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 788a841fd1c8d4379ab698cfb8a800cb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ZoomOut.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 790c873e7b8c9484fb04000e6e984764
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Characters/Mage.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79df210211e0c464fb3feeb751ccf41f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Toolbox.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a2d6de372f464e1884452e0306899a5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_White2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7af02e43d66d84617b86300140b78211
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Page_Prev.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7afb7bd2306c64c1ba7201373c6f9c43
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Share.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c9ec882b6d604c2092c62e07fcb282a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Scan.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d31f19f7936cdd4aaf39127ec5d9a9f
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Characters/Archer.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d8e570202c4f45a7a9fd64b6f3c9876
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Prev.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7df00cee1e3ff4d0283ecc86596233c5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Flask02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e30376514d7c44acbc0f231178e446a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Soulgem.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e973ef21f5f84dd189ef4488ffe684d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_square02_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eb6cddf9466545e6a8cf5f30234dd1a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Scroll.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f75f9972cab84b50bb2365a6d163132
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Coin_03.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81a1427cd47ec49ee8b922f22b81bb54
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Chicken.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82fda90654c9340bb9ebebba5563e06c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Align.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8314db3bfd8b74c40ba68d5190b778d0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Graph.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84776b8d1949f406d92d5e4e354a650f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Setting.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84bd1ff053a1c436dae41938d826e522
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bug.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 851d405330292284492d1cbe11f20833
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Textures/Mage.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 852db44a16a25442a9c3dd1417a8da5b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Popup/popup_mask.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856e53ba4b6f14f42bdc3ef150c77c58
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@Walk.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85b8500e331b45549bb621bd31a41954
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@Attack1.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 860ad9267517548b487ffee25163dad5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Medal.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 865eaa371902a47068dbbe5a8a30a6e2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tablaframe01_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 867b3f4e00a7344e4ad9681500ce8e88
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Gift.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 869f8c7e95bbe4ea4b47c28684c397e1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Unlock.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8779473b44fe4412ea24229894658ad0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Music.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87a096d11b490479da8f95576b69c8a1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ArrowDown.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87d0adcf948e34d9ba8c018e5af6d295
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Gem_02.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87f5b05e383874f1b8affb5f698787e2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Random.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89833f9f146134c9184399fdde931fcf
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_square02_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89860b58da08d4341a4676ff80cfe47b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Tag.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 899a4634a0680445a8c79549eef05c68
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Coupon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89ea7da7be41a4ee2b0f72e26ff9a5f8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Dynamite.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a41aad2c32f3411297f930f920a0089
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Shield_A.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a52b5db1ad2148cd94a2b1d0ef7c19b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_topbar_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b732bc7d9d324765b7492ee456ce600
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_More.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c3bfcfec8258496e909418317a709c1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Defense.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c7fb62525c2c4f3ebead3875c434dab
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Control.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cd9ba8c2545f4570b8b9b186324532b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Battle.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d118ce71896e4eb8ad4cd6d53a96447
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Support.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d2b84e18b4b1479b84d1d2495edd221
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Circle01_Blue.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d44159a77d104ab08307d8ee207b755
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tableframe02_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e76e5afa560f4ac28df592770af57f8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Upload.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f5e276e420954258bd022cc99bc64e2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe01_Demo_green.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f710fbaa11614b0db0b868c75039949
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Fonts/Changa-Medium_Underlay
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - font
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f8011eabda7d4a88bd345d07ad216e4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_square01_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90fd9a140a3854a52b6f13ef3ea72012
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_Demo_d.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 913ffa3567ef64565b93084ec8a4fcac
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_edgeframe_large1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9183ace9b96bd426c9d11a11130473e4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91edb03fe32c3448c969aa81e58b92a8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Bell.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 921fc582a90394e848a83da40043f251
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_oval_56_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92e7fd5e4eb79486fbcff490b15f7238
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Sandglass.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 945c94fa95e16461b814ba86437b2f71
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Skull.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95d2065af21694dd6a8bb7492ab4b18b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Notification.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 960a0649735cb4a5297f1fcf3375e760
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Show.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 964ce217c45a84f679e0ac67fc9b4878
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe01_White3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96504ac10705e4d4888f6a08fe4ab579
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_listframe_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96a75112993194ff9b336a963020c69e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Camera.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96af9a74efcf24fd7b956f95b1111fa8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Media.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 977ff4128988e49b299d08ebeaf6d992
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Crown.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97bae8163125a4811a8a9c09ad34e514
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Coin_01.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97d3114d06a424fc399c0989150ed89d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Circle03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98396872d85464da383eeebe0815ea12
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Star02_Off.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 989518b8746a84da8a894e177a896b86
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Shield_D.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 992ef868ccb70c742b7e1fa76466fe6a
+    m_Address: Assets/CookApps/Prefabs/popup/PopupCountDown/PopupCountDown.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a5ea273c378546839d4eda3bb5a6ee7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MarkCaution2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a78b7ac5593fc342acc905b0d17523c
+    m_Address: Assets/CookApps/Prefabs/player/unit/3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9af0cd9b98fb440d6978dc1275a882ff
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Popup/popup_title_frame_02.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b5f58a108969494aad6316e46705f9f
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton-Group-.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ba837d327a084f2fba18827eeda2aec
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Magnetic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bce1253e076649698e00d30c02c092a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MailRead.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9be844987db8d499fb14098424d117b7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Stopwatch.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c72dc67810dc4ea6b57816866d4979f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe02_White3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cec25c03b6b34cb69a72aed6d6bbc92
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_Demo_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d099813b1b6f4f568ce383adf31a9c3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Coins.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d0eb1428411148078cb5e947e780260
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_oval_56_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e8760b9d626e4fe4a7e5d08e8e33ee7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Soulgem_01.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f50362e3fa90440b8caef63181d40de
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_MainButton_Brown.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fe018fe5f9f045c7811bf5459e2e4d6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Fonts/Changa-Bold_Underlay_Light
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - font
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1490c7c3c07c4ecf9b7e1b812df3af6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_StatsIcon_Defense_White.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a15be1c5df2514c09833edbec3afd26b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Clover.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a214a84d2524d402c9fcc2676ba0900e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square03_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a22fa907354e74be68233cb9f2024234
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bulb.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a26538a04f89c4f33b42d94206b4c428
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Basket.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2d42d86b520a438f9773ac47d09102c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Call.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3104820452ee4f399e0fd001c91698a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Planet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a47af19c5bd5d43d7adcb7501a9fa826
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Sign.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a52342ebbb0de4d42b40038ec099a59b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ArrowUp.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a581a2aae70014c8db0da31a75b3b4c5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MarkQuestion1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a614de6de591948fe95ac9e8044d6420
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_EmojiSoso.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a63cf19df44e77944982e6144261f8a2
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/KnightAnim.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a63e4d5c4cd3f45a19240be24783c953
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType_Square03_Demo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a66577b5b826a4a4fb46ae7e6108b830
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_AddFriend.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a69541f8a5cd34d578276bc35b5012ca
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Flask01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8a7482b124844678b5c75a04984bf7d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Dollar.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a936cffa56fce439188f75c98751befe
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Coin_02.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a995d727d709e1a4b963a7a02b2a8599
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Animations/Knight@Fall.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa08b74712ef341d39bda6221b5073df
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Thunder.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa2f3c655b3634b2b852b64fd197fd58
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Fonts/Changa-Bold_Underlay
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - font
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aca272b9b5bd04227bd473b2fab855e7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_topbar_Demo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad7aee991f4a0441e92e16f535281d32
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_MenuIcon_Setting.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adb8b6c48a78b554ba66d7315eaf6fa6
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/ArcherAnim.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ade56b7149c6940ecbc3fe38cd065543
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Coin.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae6e8876fd0704741b8256be018fac92
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ControlPrev.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae9013fff07cc426b81d80e49d140e7e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_GameJoystick.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae9e43fc0888d4e749b454877130d618
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Gmail.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af5d9b9ab3fc24a30a9334b4576d5a04
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Support.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af7142ab033124e50a743ff7f050a4fa
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_edgeframe_small2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af990f20e43514ee8948d94242ddbe96
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Attachment.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03d1921666e64d16a05a1e4e3cb34af
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Music1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b09fa4523c89046a0889ca9c870aabb6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Video.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b158f6e45b5c148c2b382505507a99b8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_White3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1c6a30084dcd4afa88840c2117b2c9d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_RecordOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b21089ef157af4f0399336078175b151
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Target.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b23b1bc4a445d4d12babf99befc440a7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Left.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b264386ec04e54d6e9c61eb484e0c9a6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_edgeframe_small1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b295495916e9649d3b29d26a67333d1f
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType-MainButton-Group-.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b30fcba4c1687428d9335b4475a97224
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Download.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3ccdeb95d3f345959679dec11c50048
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Horner.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b433d56fd29c547c2bc13ece9a9beb51
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_edgeframe_large2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4d166de6208f4ea9bcbc714dbf86ce2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Ranking.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b66b96c6acb4f456898d981f7bc06784
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Circle02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b72c9f4e6454b5643b65d5b1dde21d51
+    m_Address: Assets/CookApps/ResourcesPack/Knight/Characters/Knight.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b74765acd54b24201a3751774c67ede9
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Tent.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7d27a144c97042f3b95785601eede33
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Crown.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b80dbaf3210ca4956a60a167aa5311c6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Coffee.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b86fa1dc4fb914c2bab0bad56b59bcda
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Account.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8b989f3e09bf4a00bf053c4a44bb82e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Close.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8ea6ae8b1cebb6429c37b1d32990a60
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@Walk.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b95abaf85a3fb419cae3886f12a8bb7b
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton_Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b994304bb5b1a4fe4873e421adb11240
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe01_White1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9cc9dcd3deee4c88803a4e7917f9125
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_ControlPause.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba3529f81a8964c04836f473a134c66e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Heart.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba3b33db044b940398289af10aea649c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_Square03_p.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba6bebfc975414e879205e31cd2d6377
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Confirm.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baaa5431906924ce6bd9401b3b800726
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Copy.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcd50bb6462b24bc4a62f2318f88e3d3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Shield_B.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd9f2d89ca95f4d8aa4af543e31dcda3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_stageframe_Demo_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be3925d5c315348339b31f67adce97dd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Reset.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bedd8d8c02f1443458c89afb25f1d738
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Warning.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf670cb2d00804525aa1448f684b3c3b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Energy.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfc613d7bc6274f7d8507d6aff6724ca
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_StatsIcon_Gem_White.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfdb864115dd04df2b18cd36ec8d65d6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Skull.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfe727811a64244218601711880b79eb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Pinwheel.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c05190618ba504cb48c0a34047674460
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ShopIcon_Soulgem_02.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c229572364a9145ffb1901b2729a45c2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Binoculars.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2bdd4b29e21a43c296e7d7c09e5752a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_164_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ef73307e95e414a823738196b9deeb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Block.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3b38b8e145514482af57d3e0d44952b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Twitter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c408723e5b65f418fb6e6638f44eb182
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_square01_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c436a2df23cf140c6b7e3b05662323ea
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_White4.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c498cf12502844cb2bc6d7ba42ad71c7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Facebook_Whie.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5540f277bfe8403c91cc24ad8b7ad7b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Fingerprint.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c65d509da32004923a3bdf1db9b2dbe0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Purplegem.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6cf8ff34f7744949b7a6c9888bad638
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_User.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c73b8d4e18ef7452099113597cadb405
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bad.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c75fca2570cf5463398d7cf275d7bacf
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Mobile.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8ad506b4b4ed4307956ecc2909bd96e
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType_Circle01_Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8d6a7a01a7f04c238008de252ddb7d3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Menu.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c99634f2b238d440b9b16c06abed4347
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe01_Demo_brown.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c99d50020f84d6440991c796cf26ffa6
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Characters/Archer-Bow.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb3b31ebae0d94986a769b3d9c7730f0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Hammer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb5eeee1b80ce44fdbb6c17f6bdefafd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_White5.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbb338b33765f40d2b04b54d803786bd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_MainButton_Green.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc9622bfa32d345b2b82a37b9fdb614a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Shop.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc96ae0dba26c4799a55f2d9d261aff0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Resume.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc9ddc2f7f16941bca4ce40c28f85d55
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Map.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd1793ac7def1461fbbc5dbbae7afe1a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Horner.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cec60a7055c064a05995347d1814bd9c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Clover.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced091f3d289e4a00b88965458b5b529
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MarkQuestion2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced27dd30d5174f1abb4a3af3902c19d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Service.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf2a0d69cd887495288b41945e3efb87
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_Demo_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf6fba8636d5213438d19eb3e67aeb80
+    m_Address: Assets/CookApps/Prefabs/popup/PopupPush/PopupPush.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0e9695c0153948809694226675d9b29
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Sword_B.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0f81294c6ffa4372ad7eeb3d3f0b76e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_SkillIcon_Attack.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d15a8d679e11d4faabf627f98a1935b6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Lock.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d18013449d7c347549577b02764b8592
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Coupon.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b771480eece46cca4f48a40e491c5c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Pickax.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2ceea8a263044cfabb8628e2e761eed
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Piechart.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d30db8b61e4634109a4340b099b384ff
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Add.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3320772c6a9d4544ab85e0c361be060
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Pc.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d36f6572b24fb4c15a6f4eff13d0cce0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Calendar.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d479fbb4b257a410db2d438a01ab62bb
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Crown.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5583070971864116a83a0f2577fa4da
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_MenuIcon_Chest.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d591f095222fa41e7924b9846a5c54a9
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Preferense.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5db237d2b01b45e2a16da7ab6c52b12
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Dollar.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5e479699e89b45b483c5ff304b451c3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Lock.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d761417cbffba4422b6ec438230fbf8b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Remove.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d843602d844e9462db6b3bb641cb4dbd
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Printer.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8dac49f2f89846fd84ba5105f788c42
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bottom.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8f67447a2f8e40b487883eb967a46be
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Firm.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d92d44476f83e4df38779f3767434fff
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Star.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d94dac1a18642447c95d8f272fa2bb03
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Megaphone.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9a51fe28c432463eaaf478576dc74ae
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Search.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9e818590bbc140b18e93c7656a88903
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_SkillIcon_Ring.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da606bf48dff0421495e1dee4ca23a90
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Ax.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db26a2d7ccdf24112b648ae71e6c4ecc
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_White1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db329464550fae44a96a048119a4d1b1
+    m_Address: Assets/CookApps/Prefabs/player/unit/2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbcba7fd7ce3050428d20728ad23fedd
+    m_Address: Assets/CookApps/Prefabs/scripts/string/stringEnglish.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Script
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc0f7702da82748bd8cf3cd05b2418d7
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_MarkInfo2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc616340029fe46f488deb0845bf7a59
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Medal_Bronze.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcc1b0d7c52ce4293a3e1a4c4ba65af4
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_IconType_Square02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcd0aaaa94c0a4477ac5f4f75bdd4e77
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_List.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd3a09c0a35e24bcebc91d511983b5dc
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Facebook.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de14ffc87d2c144b4a447d0215cb6d22
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Googleplay.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: deaf066c82ab840249c5f7833f9f5a9f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Link.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dee7d15f61fca48e28e899866d110e60
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_MenuIcon_Trophy.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df16bea67e1164d1a984f63b922e0ac3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Home.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df69b231906d743fbb55deba2e177aa4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_FolderOpen.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfe1969143b334f5e93fd704efd115f8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Hammer.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e00201374ca2040ee847d9d26dadbcbe
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Shield_C.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e07bd2b5a314b449692fca2e0ef80194
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Check_s.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e098add14f3e34b49b7772e1c6b72449
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Sound.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e230e64e043fa49c1ba2f91584d1c455
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Sort.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2afe2cb1df0d44768cb1efe5d0fe321
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_StatsIcon_Health_White.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2e0cbfb088f8450fb381c1d08c0fad2
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Game.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3c64caa1bb854ff58aba5cc9a008834
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_basicframe_circle_52_White.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4600be71746f49db9c39bc3515a5d06
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_tabmenu_White2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e598d95fc9bda469997fdee35196d50b
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton_Brown.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5d3977ce38a4924e9a90f0e13d5ee5b
+    m_Address: Assets/CookApps/Prefabs/common/DamageParticle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6c0a2dee2ae944ee88451553c51c8b6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Horseshoes.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e70c098f03f9a4386bb918f55707a298
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Cart.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7141fe1df23d4571b18530ed5e2eb04
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Player.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7d6adabb2a3f46c2beef70f97e99e9f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Record.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e82df3ec0df5c4a6fa36148aa837cab1
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Gift.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8e950db7c59d4449b998b6056a06bf3
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Feather.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8ffe2ae5c7a247e28c8da3424869a6a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Gold.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9acbfc78e59847b4b400e1e7ef7b35d
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Lock.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec5186516b0f845b7ac0650cf9429900
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Earth.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb32d4c3152e43029c60b9c9da04006
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/_PrefabsPanel_Buttons.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed7a5840773434edc9b1d2086c39457b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Ring.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edae4d20b36f73242831958e20149d07
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@Attack1.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edcfb9b2f8cb0489c826ad45e35b9c9c
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_MenuIcon_Falg.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee0c6960c2b644b308ca2581842311a6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Knowledge.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee0d18b2a22db41f2b4725dc8ff88580
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Envelope.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef147a8f8ca074af5b66e1a34d876a1a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Pick.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc40b30c17cb4a04ba5566107c84960
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Sparkle.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc6f2474b7914985adecac17d78a159
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Gem.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0766797840d8486c8e24a66c2f6a829
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Percent.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f139613dc3ca24233a05524c5162cdd8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Button/Btn_MainButton_Bluegreen.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f237d0f07b95c471d94f0441509e9694
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Popup/popup_title_frame_03.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f337a990d97801442b44bb166f90453c
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Textures/Archer.psd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3d64c2ad8b4c4668952996a1f90aba5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Up.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f44b3a8d7dc694d90b03aac46aba9e07
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Back.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f46fe764f39714a97af4bed6ed3be184
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bin.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4817a4eda948414d888f5ad1605a8f0
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Contact.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5a6003757a4945e5a989cc9a677492f
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Laurel.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f605b31045b95a4449efd7864f7df982
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@WalkSlow.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7388d3256ab7424780a13df5284c908
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Chat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f792db055261f4b14bb6699ccb402b21
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Card.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f793bd4e2d35c49a68f2bf855813da6e
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Speedmeter.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7cd777d4a2c2413ba3be49a039a47d4
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_decoration.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8e2f6aba18a54cb7b61b2929137f9d5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Music2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9370a85701a54a6694e1269307d1681
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_ItemIcons_(original)/Icon_ItemIcon_Arrow.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9ac8d656993046c2bae8b1627b0d145
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_ImageIcon_Check_l.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9bbc2af73aa445ba81dc264dcf9021b
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Dislike.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9d93d4022cfdf043844af3241be7b05
+    m_Address: Assets/CookApps/ResourcesPack/Mage/Animations/Mage@WalkSlow.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa08fff1716a04db18700207b6c202e5
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Fonts/Changa-Medium SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - font
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa5715cd12a534054bff4431772783a8
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Bank.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fadf3f1add8224178a16fbceda1f8069
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe01_Demo_sliver.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba33a26e2f3cd84eb0937183da5b45c
+    m_Address: Assets/CookApps/ui/font/Changa-Bold SDF Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc313d64b60214373be86a4bcde6e041
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Demo/Demo_Icon/Icon_PictoIcon_Facebook.Png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc61b88a90e02f54eaf390b8a932b98e
+    m_Address: Assets/CookApps/ResourcesPack/Archer/Animations/Archer@Run.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc80299100f524115a01e14a17427a03
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Add.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd56e80e3630f4279bbc90a755492dd6
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Wallet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fda12de7cf9a44bfba50563416f6756a
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Flask03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe8e92e90044b4fdeaa90752461cc145
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton_BlueGreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee3b8fa7ee9b4870be2011041233752
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Frame/frame_itemframe02_Demo_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffaf922c90bd14f40805f432d9659f00
+    m_Address: Assets/Layer Lab/GUI-TheStone/ResourcesData/Sprites/Components/Icon_PictoIcons_(orginal)/Icon_PictoIcon_Brain.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fffcb3bd743054c85860e9394da42531
+    m_Address: Assets/Layer Lab/GUI-TheStone/Prefabs/Prefabs_Component_Buttons/Button_TextType-MainButton_Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a80d39b2927eb8542925bfe9f61932dd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5c6f72cda315c1d49baa5d9b5dab4f87, type: 2}
+    - {fileID: 11400000, guid: d01a72d2187c5a248b5bfbe9f3ba97be, type: 2}
